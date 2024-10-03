@@ -33,6 +33,6 @@ int main() {
 
     printf("The largest element is: %d\n", largest);
 
-    return 0;
+    
 }
 
